@@ -1,0 +1,117 @@
+body {  background-image: url(images/header-bg.png);
+    background-size: 100%;
+    font-family: 'Trebuchet MS', sans-serif;
+   
+     }
+
+.first {margin-top: 200px;
+   }
+
+     
+.half-width{width: 40%;
+            margin-left: 8%;
+            float: left;
+            box-sizing: border-box;
+            padding-left: 0%;
+        }
+.half-width img {width: 100%;
+                 position: relative;
+                top: -150px;
+            }
+/*finish of first Section*/
+
+/*Section 3 begin*/
+.portfolio{position: relative;
+            top: 400px;}
+.work { margin-left: 50px;
+    margin-top: 250PX;
+    height: 400PX;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.port img {height: 30%;
+            width:30%;
+        float: left;
+    border-radius: 5px;
+  box-sizing: border-box;}
+
+
+
+
+/*Now STart Position*/
+
+.st{position: relative;
+    left:290px;
+    top: 90px;}
+.rd{position: relative;
+    top:-250px}
+.nd{position: relative;
+    top:-250px;
+    left:30px;}
+.hteg{position: relative;
+      top: 60px  ;
+    color: rgb(255, 26, 64);
+        font-size: 25px;
+        font-weight: 700;}
+.biop{position: relative;
+        right: 30px;}
+.third {position: relative;
+        top: 200px;
+        right: 350px;
+    box-sizing: content-box;
+    box-sizing: border-box;}
+h4{position: relative;
+    right: 105px;
+color: coral;}
+.ceo{position: relative;
+    left:96px;
+    bottom:15px;
+    }
+.des{position: relative;
+    right: 90px;}
+footer{position: relative;
+        left: -380px;
+        bottom: -500px}
+.last{
+    width: 50%;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    left: 790px;
+    text-align: center;
+    padding-top: 80px;
+    bottom: 230px;
+    border-radius: 50px;
+}
+.lastp {position: relative;
+        left: 270px;
+    bottom: 60px;}
+.lasth{position: relative;
+        left: -5px;
+    font-size: 20px;
+    bottom: 50px;
+color: rgb(0, 30, 56);}
+
+.copyright{position: relative;
+            top: 200px;
+        left: 210px;}
+
+
+/*font size*/
+h3 {font-size: 35px;}
+.name{color: rgb(255, 0, 43);}
+h2{color: rgb(244, 27, 63);
+    font-size: 50px;}
+p{text-align: justify;}
+
+.secb{text-decoration: none;
+    color: rgb(255, 255, 255);
+       background-image: linear-gradient(45deg,blue,red);
+        padding: 10px 20px;
+        border-redius:5px;
+    border-radius: 5px;}
+.secb:hover {color: rgb(0, 0, 47);
+    border: redius 15px;}
+
+
